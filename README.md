@@ -31,4 +31,4 @@ The analysis has shown that:
 * A total of 1,549 employees are eligible to participate in the Mentorship Program.
 
 ## Entity Relationship Diagram
-![ERD](EmployeeDB.PNG)
+![ERD](EmployeeDB.png)
